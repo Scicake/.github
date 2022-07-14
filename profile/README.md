@@ -4,12 +4,12 @@
 
 We combine rich academic background and vast industry skills to offer end-to-end scientific research expertise, development, and data science products and services ideally suited for innovative companies that want to leverage the power of data and improve our lives with intelligent products and services.
 
-### Our offer:
+### Our offer
 1. research - we will take your problem statement and propose a complete solution based on state of the art, experimental verification, and best practices
 2. consulting - we will provide you with guidance and advisory utilizing our long-lasting expertise in data and computer science projects across various disciplines
 3. development - we will design and develop prototypes, modules, and APIs, all the way up to full-scale and production-ready data science applications
 
-### Our technologies:
+### Our technologies
 1. experimentation environments - jupyter notebook/lab, google colab
 2. scientific computing and statistical tools - scipy, statsmodels
 3. data manupulation libraries - numpy, pandas
