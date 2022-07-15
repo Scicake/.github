@@ -12,7 +12,7 @@ We combine rich academic background and vast industry skills to offer end-to-end
 ### Our technologies
 1. experimentation environments - jupyter notebook/lab, google colab
 2. scientific computing and statistical tools - scipy, statsmodels
-3. data manupulation libraries - numpy, pandas
+3. data manipulation libraries - numpy, pandas
 4. data processing and parallelization tools - apache spark, apache kafka
 5. machine learning libraries - scikit-learn, keras, pytorch
 6. natural language processing libraries - spacy, huggingface
