@@ -2,7 +2,7 @@
 
 **Research | Consulting | Development**
 
-We combine rich academic background and vast industry skills to offer end-to-end scientific research expertise, development, and data science products and services ideally suited for innovative companies that want to leverage the power of data and improve our lives with intelligent products and services.
+Scicake is a research and development company that bridges business with science and puts companies in the front line of innovation by adopting creative and responsible artificial intelligence. We offer consulting, research, and development services allowing companies to improve our lives with intelligent products and services.
 
 ### Our offer
 1. research - we will take your problem statement and propose a complete solution based on state of the art, experimental verification, and best practices
