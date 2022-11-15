@@ -1,4 +1,4 @@
-## Scicake
+## Scicake - baking data science projects
 
 **Research | Consulting | Development**
 
